@@ -1,0 +1,1 @@
+# global-smooth-trend-screener
